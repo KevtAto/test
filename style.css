@@ -1,0 +1,20 @@
+body{
+    background-color: maroon;
+}
+h1{
+    color: aqua;
+}ul{
+    color: beige;
+}
+.btn{
+    background-color: black;
+    color: beige;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+}
+.btn:hover {
+    cursor: pointer;
+    background-color: brown;
+    
+}
